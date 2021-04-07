@@ -1,4 +1,4 @@
-[![natylaza89](https://raw.githubusercontent.com/natylaza89/natylaza89/main/banner.png)][1]
+(https://raw.githubusercontent.com/natylaza89/natylaza89/main/banner.png)
 
 # Hi there, I'm Netanel Lazarovich 👋
 I'm a Python Developer.
