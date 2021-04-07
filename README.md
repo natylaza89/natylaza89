@@ -1,16 +1,13 @@
-### Hi there 👋
+[![natylaza89](https://raw.githubusercontent.com/natylaza89/natylaza89/main/banner.png)][1]
 
-<!--
-**natylaza89/natylaza89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Netanel Lazarovich 👋
+I'm a Python Developer.
+You can contact me on [LinkedIn](https://www.linkedin.com/in/natylaza89/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natylaza89&hide=java,html&theme=midnight-purple" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natylaza89&show_icons=true&line_height=27&count_private=true&theme=midnight-purple" alt="Naty's GitHub Stats" />
+</a>
